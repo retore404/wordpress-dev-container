@@ -1,0 +1,5 @@
+# WordPress Content Themes
+volumes/wordpress_themes/*
+
+# DB Data
+volumes/db_data/*
