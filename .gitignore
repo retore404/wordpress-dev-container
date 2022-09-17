@@ -3,3 +3,6 @@ volumes/wordpress_themes/*
 
 # DB Data
 volumes/db_data/*
+
+# Composer
+volumes/composer/vendor/*
